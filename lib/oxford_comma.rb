@@ -4,4 +4,5 @@ def oxford_comma(array)
     array.split(", ")
   else 
     array.split(" and ")
+  end 
 end
